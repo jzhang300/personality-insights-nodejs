@@ -6,7 +6,7 @@ declared-services:
 
 applications:
 - name: personality-insights-james-demo-123213123
-  command: node app.js
+  command: npm start
   path: .
   memory: 512M
   services:
