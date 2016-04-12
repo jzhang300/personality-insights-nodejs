@@ -5,7 +5,7 @@ declared-services:
     plan: tiered
 
 applications:
-- name: personality-insights-livedemo
+- name: personality-insights-james-demo-123213123
   command: node app.js
   path: .
   memory: 512M
